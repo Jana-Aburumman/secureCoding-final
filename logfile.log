@@ -1,0 +1,68 @@
+Jan 07, 2025 1:53:49 AM finaljana.MyLogger writeToLog
+INFO: Login successful for Check-in Agent: admin
+Jan 07, 2025 1:54:25 AM finaljana.MyLogger writeToLog
+INFO: Registered new passenger: passenger1
+Jan 07, 2025 1:54:38 AM finaljana.MyLogger writeToLog
+INFO: Login successful for Check-in Agent: admin
+Jan 07, 2025 1:55:06 AM finaljana.MyLogger writeToLog
+INFO: New Flight Crew added successfully!
+Jan 08, 2025 12:12:39 PM finaljana.MyLogger writeToLog
+INFO: Login successful for Check-in Agent: admin
+Jan 08, 2025 12:13:13 PM finaljana.MyLogger writeToLog
+INFO: Registered new passenger: dr.safaa
+Jan 08, 2025 12:13:49 PM finaljana.MyLogger writeToLog
+INFO: Failed login attempt for Check-in Agent: hshdhd
+Jan 08, 2025 12:17:33 PM finaljana.MyLogger writeToLog
+WARNING: Error reading Passenger data
+java.io.FileNotFoundException: PassengerInformation.txt (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at finaljana.Passenger.Login(Passenger.java:32)
+	at finaljana.Passenger.main(Passenger.java:17)
+	at finaljana.Main.main(Main.java:27)
+
+Jan 08, 2025 1:52:09 PM finaljana.MyLogger writeToLog
+INFO: Login successful for Check-in Agent: admin
+Jan 08, 2025 1:52:31 PM finaljana.MyLogger writeToLog
+INFO: Registered new passenger: anas
+Jan 08, 2025 1:53:23 PM finaljana.MyLogger writeToLog
+WARNING: Error reading Passenger data
+java.io.FileNotFoundException: PassengerInformation.txt (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at finaljana.Passenger.Login(Passenger.java:32)
+	at finaljana.Passenger.main(Passenger.java:17)
+	at finaljana.Main.main(Main.java:27)
+
+Jan 08, 2025 1:53:52 PM finaljana.MyLogger writeToLog
+WARNING: Error reading Passenger data
+java.io.FileNotFoundException: PassengerInformation.txt (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at finaljana.Passenger.Login(Passenger.java:32)
+	at finaljana.Passenger.main(Passenger.java:17)
+	at finaljana.Main.main(Main.java:27)
+
+Jan 08, 2025 1:55:43 PM finaljana.MyLogger writeToLog
+INFO: Passenger login failed: anas
+Jan 08, 2025 1:55:53 PM finaljana.MyLogger writeToLog
+INFO: Passenger login successful: anas
+Jan 17, 2025 1:51:40 AM finaljana.MyLogger writeToLog
+INFO: Login successful for Check-in Agent: admin
+Jan 17, 2025 1:52:07 AM finaljana.MyLogger writeToLog
+INFO: Login successful for Check-in Agent: admin
+Jan 17, 2025 1:52:31 AM finaljana.MyLogger writeToLog
+INFO: Login successful for Check-in Agent: admin
+Jan 17, 2025 1:53:07 AM finaljana.MyLogger writeToLog
+INFO: Registered new passenger: joudalfaleh
+Jan 18, 2025 12:16:34 AM finaljana.MyLogger writeToLog
+INFO: Failed login attempt for Check-in Agent: admin

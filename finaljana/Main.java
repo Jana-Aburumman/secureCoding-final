@@ -1,5 +1,6 @@
-package classesandobjects;
+package finaljana;
 import java.util.Scanner;
+
 
 public class Main {
     
